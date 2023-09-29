@@ -11,7 +11,16 @@ Olá! Eu sou o Juliano Costa 👋
 - 🌱 Atualmente graduando em Sistemas para Internet.
 - 👯 Estudando PHP, Python, Javascript, Node.js e Banco de Dados.
 
+- <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
+<br/>
+<div align="center">
+    <img src="https://skillicons.dev/icons?i=nodejs,github,python,javascript,typescript,express,firebase,mongodb,c,java" /><br>
+    <img src="https://skillicons.dev/icons?i=react,r,bootstrap,mui,mysql,flask,html,css,vscode,figma,git" />
+</div>
+
 <br>
+
+![Snake animation](https://github.com/julianociawax/julianociawax/blob/output/github-contribution-grid-snake.svg)
 
 <div> 
       <a href="mailto:juliano_ciawax@hotmail.com" target="_blank"><img src="https://img.shields.io/badge/Messenger-00B2FF?style=for-the-badge&logo=messenger&logoColor=white" target="_blank"></a> 
@@ -21,5 +30,3 @@ Olá! Eu sou o Juliano Costa 👋
   <a href="https://www.linkedin.com/in/julianociawax" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 
 </div>
-
-![Snake animation](https://github.com/julianociawax/julianociawax/blob/output/github-contribution-grid-snake.svg)
