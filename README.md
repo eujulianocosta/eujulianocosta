@@ -21,3 +21,7 @@ Olá! Eu sou o Juliano Costa 👋
   <a href="https://www.linkedin.com/in/julianociawax" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 
 </div>
+
+### GitHub Activity
+
+![Snake animation](https://github.com/julianociawax/julianociawax/blob/output/github-contribution-grid-snake.svg)
