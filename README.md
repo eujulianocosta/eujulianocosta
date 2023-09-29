@@ -22,6 +22,4 @@ Olá! Eu sou o Juliano Costa 👋
 
 </div>
 
-### GitHub Activity
-
 ![Snake animation](https://github.com/julianociawax/julianociawax/blob/output/github-contribution-grid-snake.svg)
