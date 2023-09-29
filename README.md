@@ -11,9 +11,7 @@ Olá! Eu sou o Juliano Costa 👋
 - 🌱 Atualmente graduando em Sistemas para Internet.
 - 👯 Estudando PHP, Python, Javascript, Node.js e Banco de Dados.
 
-- <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
-<div align="center">
     <img src="https://skillicons.dev/icons?i=nodejs,github,python,javascript,typescript,express,firebase,mongodb,c,java" /><br>
     <img src="https://skillicons.dev/icons?i=react,r,bootstrap,mui,mysql,flask,html,css,vscode,figma,git" />
 </div>
