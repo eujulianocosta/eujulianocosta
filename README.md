@@ -9,7 +9,7 @@ Olá! Eu sou o Juliano Costa 👋
 
 - 🔭 Tecnologia da Informação - Aeroporto de Navegantes.
 - 🌱 Atualmente graduando em Sistemas para Internet.
-- 👯 Estudando HTML, CSS, JavaScript, PHP, Python, Banco de Dados.
+- 👯 Estudando HTML, CSS, JavaScript, React, Python, Angular, Typescript, Swift e Banco de Dados.
 
 <br/>
 <div align="center">
