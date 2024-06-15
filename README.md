@@ -8,6 +8,7 @@ Olá! Eu sou o Juliano Costa 👋
 
 <br>
 
+- 💻 CEO e Programador da Empresa JCTECNOLOGIAS - Criações de Sites // https://jctecnologias.com.br
 - 🔭 Tecnologia da Informação - Aeroporto de Navegantes.
 - 🌱 Atualmente graduando em Sistemas para Internet.
 - 👯 Estudando HTML, CSS, JavaScript, React, Python, Angular, Typescript, Swift e Banco de Dados.
