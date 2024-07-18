@@ -1,5 +1,7 @@
 Olá! Eu sou o Juliano Costa 👋
 
+https://github-readme-stats.vercel.app/api?username=eujulianocosta&show_icons=true&theme=radical
+
 [Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=eujulianocosta&show_icons=true&theme=radical)&emsp;
 [![Mohammad Saifur Rahman's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs?username=eujulianocosta&count_private=true&layout=compact&show_icons=true&hide=html,scss,stylus,blade,jupyter%20notebook,python,css,shell,batchfile,dockerfile,typescript&theme=radical&show_icons=true)](https://github.com/eujulianocosta)
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eujulianocosta&layout=compact&show_icons=true&theme=dracula)](https://github.com/eujulianocosta/github-readme-stats) -->
