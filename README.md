@@ -2,7 +2,7 @@ Olá! Eu sou o Juliano Costa 👋
 
 <br>
 
-![Top Langs](https://img.shields.io/github/languages/top/eujulianocosta)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eujulianocosta&layout=compact)](https://github.com/eujulianocosta)
 
 <!-- [Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=eujulianocosta&show_icons=true&theme=radical)&emsp;
 [![Mohammad Saifur Rahman's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs?username=eujulianocosta&count_private=true&layout=compact&show_icons=true&hide=html,scss,stylus,blade,jupyter%20notebook,python,css,shell,batchfile,dockerfile,typescript&theme=radical&show_icons=true)](https://github.com/eujulianocosta)
