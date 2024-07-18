@@ -11,7 +11,7 @@ Olá! Eu sou o Juliano Costa 👋
 
 <picture>
   <source
-    srcset="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=dark"
+    srcset="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=github"
     media="(prefers-color-scheme: dark)"
   />
   <source
