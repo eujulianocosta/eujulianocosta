@@ -2,26 +2,14 @@ Olá! Eu sou o Juliano Costa 👋
 
 <br>
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=eujulianocosta" />
-</a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=eujulianocosta&layout=compact&langs_count=8&card_width=320" />
+<a href="https://github.com/eujulianocosta/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=eujulianocosta&show_icons=true&theme=dark" />
+</a>&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp
+<a href="https://github.com/eujulianocosta/convoychat">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=eujulianocosta&show_icons=true&theme=dark&layout=compact&langs_count=8&card_width=320" />
 </a>
 
-<picture>
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=github"
-    media="(prefers-color-scheme: dark)"
-  />
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true"
-    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-  />
-  <img src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true" />
-</picture>
-
-<br>
+<br><br>
 
 - 💻 CEO e Programador da Empresa JCTECNOLOGIAS - Criações de Sites // https://jctecnologias.com.br
 - 🔭 Tecnologia da Informação - Aeroporto de Navegantes.
