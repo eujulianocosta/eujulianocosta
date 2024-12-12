@@ -1,5 +1,7 @@
 Olá! Eu sou o Juliano Costa 👋
 
+<img height=465 align="center" src="https://user-images.githubusercontent.com/70382532/138322189-2db8df52-9dcb-40a0-88a8-c365466bd33d.gif"/>
+
 <br>
 
 <a href="https://github.com/eujulianocosta/github-readme-stats">
