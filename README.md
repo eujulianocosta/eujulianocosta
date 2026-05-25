@@ -5,10 +5,10 @@ Olá! Eu sou o Juliano Costa 👋
 <br>
 
 <a href="https://github.com/eujulianocosta/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=eujulianocosta&show_icons=true&theme=dark" />
-</a>&nbsp
+  <img height="200" align="center" src="https://github-readme-stats.vercel.app/api?username=eujulianocosta&show_icons=true&theme=dark&cache_seconds=86400" />
+</a>&nbsp;
 <a href="https://github.com/eujulianocosta/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=eujulianocosta&theme=dark&layout=compact&langs_count=8&card_width=320" />
+  <img height="200" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=eujulianocosta&theme=dark&layout=compact&langs_count=8&card_width=320&cache_seconds=86400" />
 </a>
 
 <br><br>
