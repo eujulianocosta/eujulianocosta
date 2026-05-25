@@ -2,15 +2,6 @@ Olá! Eu sou o Juliano Costa 👋
 
 <img height=465 align="center" src="https://user-images.githubusercontent.com/70382532/138322189-2db8df52-9dcb-40a0-88a8-c365466bd33d.gif"/>
 
-<br>
-
-<a href="https://github.com/eujulianocosta/github-readme-stats">
-  <img height="200" align="center" src="https://github-readme-stats-multiuser.vercel.app/api?usernames=eujulianocosta&show_icons=true&theme=dark" />
-</a>&nbsp;
-<a href="https://github.com/eujulianocosta/convoychat">
-  <img height="200" align="center" src="https://github-readme-stats.shion.dev/api/top-langs?username=eujulianocosta&theme=dark&layout=compact&langs_count=8&card_width=320" />
-</a>
-
 <br><br>
 
 - 💻 CEO e Programador da Empresa JCTECNOLOGIAS - Criações de Sites // https://jctecnologias.com.br
